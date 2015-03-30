@@ -1,6 +1,6 @@
 {
   "name": "hex-to-binary",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Transforms hex string to binary string",
   "main": "index.js",
   "scripts": {
