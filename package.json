@@ -1,0 +1,26 @@
+{
+  "name": "hex-to-binary",
+  "version": "1.0.0",
+  "description": "Transforms hex string to binary string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AVVS/hex-to-binary.git"
+  },
+  "keywords": [
+    "hex",
+    "binary",
+    "transform",
+    "string",
+    "manipulation"
+  ],
+  "author": "Vitaly Aminev <v@aminev.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AVVS/hex-to-binary/issues"
+  },
+  "homepage": "https://github.com/AVVS/hex-to-binary"
+}
