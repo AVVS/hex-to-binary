@@ -10,6 +10,7 @@
     "type": "git",
     "url": "https://github.com/AVVS/hex-to-binary.git"
   },
+  "types": "./types/index.d.ts",
   "keywords": [
     "hex",
     "binary",
