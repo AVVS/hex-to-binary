@@ -1,0 +1,1 @@
+export function hexToBinary(s: string): string
